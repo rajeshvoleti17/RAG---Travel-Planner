@@ -245,12 +245,6 @@ Edit the `.env` file to change:
 3. Make your changes
 4. Submit a pull request
 
-## 📄 License
-
-MIT License - feel free to use this project for personal or commercial purposes.
-
----
-
 **Happy Travel Planning! 🌍✈️**
 
 Start the application and begin exploring the world with AI-powered travel assistance! 
